@@ -12,8 +12,8 @@ I'm a passionate developer who loves to code and build things. Here are some hig
 
 Here are some of my notable projects:
 
-- Project 1: Brief description.
-- Project 2: Brief description.
+- Project 1: Invoicer (Full stack Invoice Generators).
+- Project 2: isURL (Link shortener).
 
 ## Skills
 
