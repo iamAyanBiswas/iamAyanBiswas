@@ -3,7 +3,7 @@
 I'm a passionate developer who loves to code and build things. Here are some highlights about me:
 
 - 🔭 I’m currently working on Project "find-my-doctor"
-- 🌱 I’m learning Next.js, Gen AI
+- 🌱 I’m learning Gen AI 
 - 💬 Ask me about Technology 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/iamayanbiswas">LinkedIn</a>
 - 😄 Pronouns: [He/She/They]
@@ -17,8 +17,8 @@ Here are some of my notable projects:
 
 ## Skills
 
-- Languages: JavaScript, Node.js
-- Frameworks: React, Express.js
+- Languages: TypeScript, JavaScript, Node.js
+- Frameworks: Next.js, React, Express.js
 - Databases: MongoDB 
 - Tools: Git, VS Code
 
