@@ -1,30 +1,23 @@
-# Hi there! 👋 I'm Ayan Biswas
+# About Me
 
-I'm a passionate developer who loves to code and build things. Here are some highlights about me:
+I am a **software developer** passionate about building **AI-powered, scalable, and high-performance web applications**. Skilled in full-stack development, AI automation, designed for optimized speed and efficiency.
 
-- 🔭 I’m currently working on Project "find-my-doctor"
-- 🌱 I’m learning Gen AI 
-- 💬 Ask me about Technology 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/iamayanbiswas">LinkedIn</a>
-- 😄 Pronouns: [He/She/They]
+My experience includes developing real-time virtual try-on (**VTON**) technologies and performance-tuned, maintainable UI flows.
 
-## Projects
+Driven to solve complex problems with **clean, efficient, and thoughtful code**.
 
-Here are some of my notable projects:
+## Tech Stack
+- JavaScript / TypeScript  
+- React.js / Next.js  
+- Node.js / Serverless  
+- AI Automation  
+- Performance Optimization  
 
-- Project 1: Invoicer (Full stack Invoice Generators).
-- Project 2: isURL (Link shortener).
+## Interests
+- AI & Machine Learning  
+- Scalable Web Architecture  
+- UI/UX & Frontend Optimization  
 
-## Skills
-
-- Languages: TypeScript, JavaScript, Node.js
-- Frameworks: Next.js, React, Express.js
-- Databases: MongoDB 
-- Tools: Git, VS Code
-
-
-## Connect with Me
-
-Let's connect! Feel free to reach out on <a href="https://www.linkedin.com/in/iamayanbiswas">LinkedIn</a>.
-
-Thanks for visiting my profile! 😊🚀
+## Connect
+- LinkedIn: [https://linkedin.com/iamAyanBiswas/]  
+- GitHub:   [https://github.com/iamAyanBiswas/]
