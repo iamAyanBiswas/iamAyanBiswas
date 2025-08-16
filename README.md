@@ -19,5 +19,5 @@ Driven to solve complex problems with **clean, efficient, and thoughtful code**.
 - UI/UX & Frontend Optimization  
 
 ## Connect
-- LinkedIn: [https://linkedin.com/iamAyanBiswas/]  
+- LinkedIn: [https://in.linkedin.com/in/iamAyanBiswas]  
 - GitHub:   [https://github.com/iamAyanBiswas/]
